@@ -8,7 +8,7 @@
 ### Dataset
 - We have gathered data of INFOSYS stock from 01-01-2008 to 31-12-2018 i.e. 10 years.
 
-### Procedure:
+### Procedure
 - Collect the INFOSYS stock data.
 - Preprocess the Data -> Train and Test.
 - Create an Stacked LSTM Model.

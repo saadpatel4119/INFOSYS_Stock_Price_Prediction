@@ -6,7 +6,7 @@
 - Quandl has hundreds of free and paid data sources, across equities, fixed incomes, commodities, exchange rates, etc. Create an account on Quandl and get an API Key to access the data for free. use 'quandl.get()' function to get the data.
 
 ### Dataset
-- We gathered data of INFOSYS stock from 01-01-2008 to 31-12-2018 i.e. 10 years.
+- We have gathered data of INFOSYS stock from 01-01-2008 to 31-12-2018 i.e. 10 years.
 
 ### Procedure:
 - Collect the INFOSYS stock data.
